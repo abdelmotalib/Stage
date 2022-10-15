@@ -1,0 +1,99 @@
+@charset "ISO-8859-1";
+
+html, body{
+	width: 100%;
+	height: 100%;
+	background-color:rgb 182, 219);
+}
+
+
+.upper-bar{
+	background-color:rgb(120, 120, 120), 174, 230);
+	/*background-color:#8B0000;*/
+	color:#FFFFFF;
+	padding: 8px;
+}
+#upper-link{
+	color: white;
+	text-decoration: none;
+}
+
+/*start navbar*/
+.navbar{
+	background-color:#152F4F;
+}
+
+.navbar-brand span:first-child{
+	font-weight: bold;
+	/*font-family:serif;*/
+	font-size:40px;
+	color:#ff8d1e;
+}
+.navbar-brand span:last-child{
+	font-family:serif;
+	font-size:26px;
+	color:white;
+}
+.navbar-nav .nav-item .nav-link{
+	font-size: 16px;
+	margin-left:20px;
+	text-transform: uppercase;
+	color:#ff8d1e;
+}
+.navbar-nav .nav-item .active{
+	font-weight: bold;
+	color:white;
+}
+/*end navbar*/
+
+
+
+/*start presentation*/
+.desc{
+	
+}
+/*end presentation*/
+
+
+
+/*  #dc3545  */
+/*------------start footer ---*/
+.about-company span:first-child{
+	font-weight: bold;
+	/*font-family:serif;*/
+	font-size:30px;
+	color:#ff8d1e;
+}
+.footer{
+  background: rgb(79, 21, 74) 21, 74);
+  color:white;
+  .links{
+    ul {list-style-type: none;}
+    li a{
+      color: white;
+      transition: color .2s;
+      &:hover{
+        text-decoration:none;
+        color:#4180CB;
+        }
+    }
+  }
+}
+.links ul > li > a{
+	text-decoration:none;
+	color:#ff8d1e;
+}  
+  .about-company{
+    i{font-size: 25px;}
+    a{
+      color:white;
+      transition: color .2s;
+      &:hover{color:#4180CB}
+    }
+  } 
+  .location{
+    i{font-size: 18px;}
+  }
+  .copyright p{border-top:1px solid rgba(255,255,255,.1);} 
+}
+/* end footer*/
