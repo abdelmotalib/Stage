@@ -11,6 +11,7 @@ Href: to retrieve the link to the advertisement from the referrer site.
 Span: contains the type of internship.
 # Spring Boot
 Spring Boot is an open source Java-based framework used to create a micro Service. It is developed by Pivotal Team and is used to build stand-alone and production ready spring applications. This chapter will give you an introduction to Spring Boot and familiarizes you with its basic concepts.
+#  The technologies used
 # Home Page
 ![Accueil](https://user-images.githubusercontent.com/66447863/198898867-f8bc6516-ea27-4fa0-808a-66db74f24780.PNG)
 # Research page
