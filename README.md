@@ -15,6 +15,10 @@ Spring Boot is an open source Java-based framework used to create a micro Servic
 ![Accueil](https://user-images.githubusercontent.com/66447863/198898867-f8bc6516-ea27-4fa0-808a-66db74f24780.PNG)
 # Research page
 ![recherche](https://user-images.githubusercontent.com/66447863/198899340-f02ebe37-b100-4f94-b95e-09c5e70616b9.PNG)
+# Results page 
+![resultat](https://user-images.githubusercontent.com/66447863/198899507-c12c3f1d-4a3c-4f3a-a6e1-10228ca1eb83.PNG)
+# Contact us 
+![contacter nous](https://user-images.githubusercontent.com/66447863/198899535-c1be8687-21f5-40fd-92a1-96565f303d4f.PNG)
 
 
 
